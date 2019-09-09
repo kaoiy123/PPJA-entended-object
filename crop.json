@@ -1,0 +1,24 @@
+{
+    "Name": "永恒玫瑰",
+    "Product": "永恒玫瑰",
+    "SeedName": "永恒玫瑰种子",
+    "SeedDescription": "拥有精灵的祝福，一朵神奇的玫瑰，永不凋谢，芬芳四溢。",
+    "Type": "Flower",
+    "Seasons": ["spring", "summer", "fall","winter"],
+   "Phases": [ 3, 3, 4, 4, 5 ],
+    "RegrowthPhase": 5,
+    "HarvestWithScythe": false,
+    "TrellisCrop": true,
+    "Colors": null,
+    "Bonus": {
+        "MinimumPerHarvest": 1,
+        "MaximumPerHarvest": 1,
+        "MaxIncreasePerFarmLevel": 5,
+        "ExtraChance": 0.2,
+    },
+
+    "SeedPurchasePrice": 50,
+"SeedPurchaseRequirements": [
+"y 9",
+],
+}
